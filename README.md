@@ -12,7 +12,7 @@ Python 3.x installed on your system. OpenCV library (install using pip install o
 
 Usage:
 
-Clone or download the Motion Detector repository from https://github.com/nitinsingh0219/motion-dector.git Ensure you have Python 3.x and OpenCV installed. Adjust the configuration parameters in the script, such as sensitivity, ROI coordinates, or actions to be triggered on motion detection. Run the script using the command: python motion_detector.py. Configuration: Open the motion_detector.py script in a text editor to modify the following parameters:
+Clone or download the Motion Detector repository from https://github.com/Nishant77777/Motion_Detector Ensure you have Python 3.x and OpenCV installed. Adjust the configuration parameters in the script, such as sensitivity, ROI coordinates, or actions to be triggered on motion detection. Run the script using the command: python motion_detector.py. Configuration: Open the motion_detector.py script in a text editor to modify the following parameters:
 
 SENSITIVITY:
 
